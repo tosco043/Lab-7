@@ -1,0 +1,78 @@
+May 21, 2022 4:04:07 PM Utilities.Logging log
+WARNING: Port must be int number! Please notice about it!
+May 21, 2022 4:04:07 PM Utilities.Logging log
+INFO: Connecting to database ....... !
+May 21, 2022 4:04:07 PM Utilities.Logging log
+INFO: Enter your account:
+May 21, 2022 4:04:11 PM Utilities.Logging log
+INFO: Enter your password:
+May 21, 2022 4:04:15 PM Utilities.Logging log
+INFO: Successfully connect to DataBase!
+May 21, 2022 4:04:15 PM Utilities.Logging log
+INFO: Server has started listening on port 8080
+May 21, 2022 4:04:55 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:04:55 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:05:04 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:05:04 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:05:24 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:05:24 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:05:24 PM Utilities.Logging log
+INFO: Server is executing Info command....
+May 21, 2022 4:05:32 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:05:32 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:05:32 PM Utilities.Logging log
+INFO: Server is executing Show command....
+May 21, 2022 4:10:57 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:10:57 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:12:59 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:12:59 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:12:59 PM Utilities.Logging log
+INFO: Server is executing Info command....
+May 21, 2022 4:13:55 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:13:55 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:13:55 PM Utilities.Logging log
+INFO: Server is executing Show command....
+May 21, 2022 4:14:10 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:14:10 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:14:10 PM Utilities.Logging log
+INFO: Server is executing RemoveById Command....
+May 21, 2022 4:35:23 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:35:23 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:35:23 PM Utilities.Logging log
+INFO: Server is executing Show command....
+May 21, 2022 4:37:29 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:37:29 PM Utilities.Logging log
+INFO: Receiving data is combined command!
+May 21, 2022 4:37:29 PM Utilities.Logging log
+INFO: Server is executing Add command....
+May 21, 2022 4:37:33 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 4:37:33 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 4:37:33 PM Utilities.Logging log
+INFO: Server is executing Show command....
+May 21, 2022 6:43:13 PM Utilities.Logging log
+INFO: Server: Received data!
+May 21, 2022 6:43:13 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+May 21, 2022 6:43:13 PM Utilities.Logging log
+INFO: Server is executing Show command....
